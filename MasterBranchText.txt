@@ -1,4 +1,8 @@
 
 this text is printered is main branch
 
+
 this is new text frof bugFix frov bugFix
+
+this is new text in bugFix branch ЕЩЕ АЗ
+
